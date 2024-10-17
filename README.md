@@ -1,4 +1,4 @@
-# Turntable-strobe-light
+# Turntable strobe light
 Turntable strobe light for precise reading of the strobe disc or platter strobe, ensuring accurate speed adjustments for optimal performance. 
 
 
